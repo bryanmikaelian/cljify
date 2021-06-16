@@ -10,5 +10,5 @@
 
 (defn ^:export main
   "Run application startup logic."
-  []
+  [ ]
   (render))
